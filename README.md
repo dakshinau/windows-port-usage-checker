@@ -4,6 +4,10 @@ Windows port usage checker is a simple bat file which returns the process name w
 
 # How to
 
+Download the batfile at : [port_check.bat](https://raw.githubusercontent.com/dakshinau/windows-port-usage-checker/master/port_check.bat)
+
+and then
+
 Just run `port_check.bat [port_number]`
 
 # Note
